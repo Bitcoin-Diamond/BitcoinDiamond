@@ -1,0 +1,9 @@
+Building BitcoinDiamond
+
+See doc/readme-qt.rst for instructions on building BitcoinDiamond QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinDiamond.
+
+See doc/build-*.txt for instructions on building bitcoindiamondd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinDiamond.
